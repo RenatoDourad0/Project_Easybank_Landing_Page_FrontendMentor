@@ -32,7 +32,10 @@ Users should be able to:
 ![Mobile preview - Sections](./design/mobile-4.png)
 ![Mobile preview - Footer](./design/mobile-bottom.png)
 
-
+### Links
+  
+  - [Solution URL](https://github.com/RenatoDourad0/Project_Easybank_Landing_Page_FrontendMentor)
+  - [Live site]()
 ## My process
 
 ### Built with
