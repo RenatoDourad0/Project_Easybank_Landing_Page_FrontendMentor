@@ -23,20 +23,19 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+
 ### Screenshot
 
-![Desktop preview](./design/final-desktop.png)
-![Mobile preview - Hero](./design/mobile-top.png)
-![Mobile preview - Menu](./design/mobile-menu.png)
-![Mobile preview - Sections](./design/mobile-2.png)
-![Mobile preview - Sections](./design/mobile-3.png)
-![Mobile preview - Sections](./design/mobile-4.png)
-![Mobile preview - Footer](./design/mobile-bottom.png)
+![Desktop preview](./easybank_desktop)
+![Mobile preview - Hero](./easybank_mobile)
+
 
 ### Links
   
   - [Solution URL](https://github.com/RenatoDourad0/Project_Easybank_Landing_Page_FrontendMentor)
   - [Live site](https://renatodourad0.github.io/Project_Easybank_Landing_Page_FrontendMentor/)
+  
+  
 ## My process
 
 ### Built with
