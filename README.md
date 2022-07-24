@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop preview](./easybank_desktop)
-![Mobile preview - Hero](./easybank_mobile)
+![Desktop preview](./easybank_desktop.gif)
+![Mobile preview - Hero](./easybanck_mobile.gif)
 
 
 ### Links
